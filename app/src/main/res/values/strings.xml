@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="BtnMMin">M -</string>
+    <string name="BtnMMax">M +</string>
+    <string name="BtnMc">MC</string>
+    <string name="BtnC">C</string>
+    <string name="BtnMr">Mr</string>
+    <string name="Btn0">0</string>
+    <string name="Btn1">1</string>
+    <string name="Btn2">2</string>
+    <string name="Btn3">3</string>
+    <string name="Btn4">4</string>
+    <string name="Btn5">5</string>
+    <string name="Btn6">6</string>
+    <string name="Btn7">7</string>
+    <string name="Btn8">8</string>
+    <string name="Btn9">9</string>
+    <string name="BtnDecimal">,</string>
+    <string name="BtnSuma">+</string>
+    <string name="BtnResta">-</string>
+    <string name="BtnMultiplica">x</string>
+    <string name="BtnDivideix">/</string>
+    <string name="BtnIgual">=</string>
+
+</resources>
